@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-4fba36) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-2-0-prompts-pt](https://github.com/vbzdz/seedance-2-0-prompts-pt)
+- **Same model, other languages** — 9 more language builds: 中文 `seedance-2-0-api-cn` · Deutsch [seedance-2-0-api-de](https://github.com/yyx06ndccjf0gx/seedance-2-0-api-de) · Español [seedance-2-0-api-es](https://github.com/kqo0u3/seedance-2-0-api-es) · Français `seedance-2-0-api-fr` · Relay/gateway `seedance-2-0-api-gateway` · Bahasa [seedance-2-0-api-id](https://github.com/uqkuew/seedance-2-0-api-id) · 日本語 `seedance-2-0-api-ja` · 한국어 `seedance-2-0-api-ko` · Русский [seedance-2-0-api-ru](https://github.com/vtgpk7aab4/seedance-2-0-api-ru)
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [seedance-2-0](https://github.com/topics/seedance-2-0) · [seedance-2-0-api](https://github.com/topics/seedance-2-0-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
